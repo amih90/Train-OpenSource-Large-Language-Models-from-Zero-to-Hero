@@ -1,0 +1,7 @@
+*.txt
+*.log
+*.pyc
+wandb*.json
+*.wandb
+wandb
+checkpoint-*
